@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimaryDark">#161A20</item>
+        <item name="colorAccent">#161A20</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/app_header</item>
+        <item name="android:windowBackground">@color/app_back</item>
+        <item name="android:datePickerStyle">@style/MyDatePickerStyleDark</item>
+    </style>
+
+    <style name="MyDatePickerStyleDark" parent="@android:style/Widget.Material.DatePicker">
+        <item name="android:headerBackground">@color/app_header</item>
+    </style>
+</resources>

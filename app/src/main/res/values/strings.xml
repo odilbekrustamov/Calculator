@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="str_0">0</string>
+    <string name="str_ac">AC</string>
+    <string name="str_mr">MR</string>
+    <string name="str_m_plus">M+</string>
+    <string name="str_m_minus">M-</string>
+    <string name="str_mc">MC</string>
+    <string name="str_7">7</string>
+    <string name="str_8">8</string>
+    <string name="str_9">9</string>
+    <string name="str_minus">—</string>
+    <string name="str_multiply">×</string>
+    <string name="str_4">4</string>
+    <string name="str_5">5</string>
+    <string name="str_6">6</string>
+    <string name="str_plus">+</string>
+    <string name="str_division">÷</string>
+    <string name="str_1">1</string>
+    <string name="str_2">2</string>
+    <string name="str_3">3</string>
+    <string name="str_percentage">%</string>
+    <string name="str_00">00</string>
+    <string name="str_comma">,</string>
+    <string name="str_equal">=</string>
+</resources>
