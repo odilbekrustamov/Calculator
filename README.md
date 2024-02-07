@@ -7,7 +7,7 @@
   src="https://github.com/RustamovOdilbek/Calculator/assets/106246180/30ccedc2-1f83-4763-8542-5d533b7f1e84"
   alt="Alt text"  
   title="Optional title"
-  height="250">
+  height="500">
   
   <img
   width="47%"
